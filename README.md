@@ -1,16 +1,27 @@
 ## Hi there 👋
+# 🌙 Inhale Exhale Studio
 
-<!--
-**inhaleexhaleapp/inhaleexhaleapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building quieter digital experiences for mindfulness, sleep, and reflection.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Inhale Exhale
+A mindfulness and wellbeing app featuring ambient audio, sleep sounds, mantras, and guided experiences.
+
+### Yuna
+A gentle digital companion focused on presence, reflection, and emotional awareness.
+
+### Yuna Reply Console
+A local-first reply companion for softer conversations on the internet.
+
+## Tech
+
+- Flutter
+- Firebase
+- Dart
+- AI Companions
+- Ambient Audio
+
+## Links
+
+🌙 https://inhaleexhale.app
