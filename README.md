@@ -12,7 +12,9 @@ A mindfulness and wellbeing app featuring ambient audio, sleep sounds, mantras, 
 A gentle digital companion focused on presence, reflection, and emotional awareness.
 
 ### Yuna Reply Console
-A local-first reply companion for softer conversations on the internet.
+A local-first reply companion for softer conversations on the internet. Grow on X without APIs or bots, with Yuna keeping you company in the corner 🌸
+
+**[✨ Try it live](https://inhaleexhaleapp.github.io/yuna-reply-console/)** · [GitHub repo](https://github.com/inhaleexhaleapp/yuna-reply-console)
 
 ## Tech
 
